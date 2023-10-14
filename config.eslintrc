@@ -1,0 +1,6 @@
+// .eslintrc
+
+  {
+    "extends": ["standard"],
+    "plugins": ["html"]
+  }

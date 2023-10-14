@@ -1,0 +1,27 @@
+{
+  "name": "cecilmoses",
+  "version": "1.0.0",
+  "description": "Cecils Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grokkfried/cecilmoses.git"
+  },
+  "author": "jberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grokkfried/cecilmoses/issues"
+  },
+  "homepage": "https://github.com/grokkfried/cecilmoses#readme",
+  "editor.defaultFormatter": "numso.prettier-standard-vscode",
+  "javascript.format.enable": false,
+  "editor.formatOnSave": true,
+  "devDependencies": {
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-html": "^7.1.0",
+    "standard": "^17.1.0"
+  }
+}
